@@ -1,7 +1,7 @@
 import win32api as wapi
 import time
 
-keyList = ['/b']
+keyList = ["\b"]
 for char in "ABCDEFGHIJKLMNOPQRSTUVWXYZ 123456789,.'APS$/\\":
     keyList.append(char)
 

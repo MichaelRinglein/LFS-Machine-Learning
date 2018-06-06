@@ -1,3 +1,11 @@
 log/
-Training_Data.npy
-Training_Data_v2.npy
+training_data.npy
+training_data_v2.npy
+
+pygta5-car-fast-0.001-alexnetv2-10-epochs-300K-data.model.data-00000-of-00001
+pygta5-car-fast-0.001-alexnetv2-10-epochs-300K-data.model.index
+pygta5-car-fast-0.001-alexnetv2-10-epochs-300K-data.model.meta
+
+__pycache__
+
+checkpoint
